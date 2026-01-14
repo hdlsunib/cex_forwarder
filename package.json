@@ -1,0 +1,8 @@
+{
+  "name": "kline-proxy",
+  "main": "proxy.js",
+  "dependencies": {
+    "express": "^4",
+    "node-fetch": "^2"
+  }
+}
